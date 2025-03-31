@@ -1,3 +1,6 @@
+#Built using Dr.Smays ThermoStateCalc File
+#Debugged and refined using ChatGPT
+
 #region imports
 import sys
 from StateCalculator import Ui__frm_StateCalculator
